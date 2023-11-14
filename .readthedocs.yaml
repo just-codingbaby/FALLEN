@@ -1,5 +1,5 @@
 # .readthedocs.yaml
-# 임시 
+#임시 
 
 version: 2
 
@@ -7,10 +7,3 @@ build:
   image: latest
   python:
     version: 3.8
-
-sphinx:
-  configuration: docs/source/conf.py
-  fail_on_warning: true
-
-python:
-  setup_py_install: true

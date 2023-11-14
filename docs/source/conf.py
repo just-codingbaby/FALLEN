@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'FALLEN'
-copyright = '2023, DAYOUNG'
-author = 'DAYOUNG'
+copyright = '2023, just-codingbaby, chaemin5, day024'
+author = 'just-codingbaby, chaemin5, day024'
 
 # The full version, including alpha/beta/rc tags
-release = 'ver1'
+release = 'ver 1'
 
 
 # -- General configuration ---------------------------------------------------

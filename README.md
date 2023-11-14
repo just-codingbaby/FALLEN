@@ -31,6 +31,5 @@
 - 정다영 : - [@GitHub Link](https://github.com/day024)
 - 정해찬 : - [@GitHub Link](https://github.com/just-codingbaby)
 
-일단 *임시임* 그냥 **이것저것**
 
 $$ \alpha $$

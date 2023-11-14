@@ -26,10 +26,10 @@
 
 
 ## 👤FALLEN 팀원
-- 임채민 : - [@GitHub Link](https://github.com/chaemin5)
-- 정승원 : - [@GitHub Link](https://github.com/Jeong-Seung-Won)
-- 정다영 : - [@GitHub Link](https://github.com/day024)
-- 정해찬 : - [@GitHub Link](https://github.com/just-codingbaby)
+- 임채민 : - [@chaemin5](https://github.com/chaemin5)
+- 정승원 : - [@Jeong-Seung-Won](https://github.com/Jeong-Seung-Won)
+- 정다영 : - [@day024](https://github.com/day024)
+- 정해찬 : - [@just-codingbaby](https://github.com/just-codingbaby)
 
 
 $$ \alpha $$

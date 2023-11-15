@@ -9,7 +9,8 @@
 **Every** <br>
 **Nook.** <br>
 
-**documentation**
+
+# documentation
 
 [Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest/)
 

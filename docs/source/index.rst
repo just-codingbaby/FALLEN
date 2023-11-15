@@ -6,18 +6,17 @@
 Welcome to FALLEN's documentation!
 ==================================
 
-* 사용 방법
+* How to use
 
-  * 분실물을 맡기실 분
+  * For those who want to report lost items:
     
-    '분실물 맡기' 부분을 클릭하시고 물건 종류/습득 장소/사진/특이 사항 등을 작성해주시고 '등록하기' 버튼을 눌러주시기 바랍니다.
+    Click on the 'Report Lost Item' section, fill in details such as the type of item, where it was found, upload a photo, and provide any specific information. Finally, click the 'Submit' button.
 
-
-  * 분실물을 찾으실 분
+  *  For those looking for lost items:
     
-    분실물 찾기' 부분을 클릭하시고 물건 종류/연락처를 작성해주시고 '찾기' 버튼을 눌러주시기 바랍니다. 
-    이후, 관련된 물품들의 리스트 중에서 자신의 물건이라고 생각되는 물건을 클릭해 주시고 그 물건의 특이사항에 대해 적어주시기 바랍니다. 
-    추후 입력해주신 연락처로 연락이 갈 예정입니다.
+    Click on the 'Find Lost Item' section, enter details such as the type of item and your contact information, then click the 'Search' button. Afterwards, review the list of related items, click on the item you believe is yours, and provide specific details about it. 
+    
+    We will contact you through the provided contact information shortly.
 
 .. toctree::
    :maxdepth: 2

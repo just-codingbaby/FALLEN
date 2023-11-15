@@ -1,7 +1,4 @@
 # 💻 FALLEN (OSSW)
-documentation
-
-[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest/)
 
 **오픈소스SW개론 팀 프로젝트** (**OSSW**) <br>
 
@@ -11,6 +8,10 @@ documentation
 **Luggage,** <br>
 **Every** <br>
 **Nook.** <br>
+
+**documentation**
+
+[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest/)
 
 # 대학 캠퍼스 내 분실물 찾기 플랫폼 
 

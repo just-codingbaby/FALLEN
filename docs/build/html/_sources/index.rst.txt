@@ -6,27 +6,24 @@
 Welcome to FALLEN's documentation!
 ==================================
 
-* How to use
+How to Use
+----------
 
-  * For those who want to report lost items:
-    
-    Click on the 'Report Lost Item' section, fill in details such as the type of item, where it was found, upload a photo, and provide any specific information. Finally, click the 'Submit' button.
+- **For those who want to report lost items:**
 
-  *  For those looking for lost items:
-    
-    Click on the 'Find Lost Item' section, enter details such as the type of item and your contact information, then click the 'Search' button. Afterwards, review the list of related items, click on the item you believe is yours, and provide specific details about it. 
-    
-    We will contact you through the provided contact information shortly.
+  Click on the 'Report Lost Item' section, fill in details such as the type of item, where it was found, upload a photo, and provide any specific information. Finally, click the 'Submit' button.
+
+- **For those looking for lost items:**
+
+  Click on the 'Find Lost Item' section, enter details such as the type of item and your contact information, then click the 'Search' button. Afterwards, review the list of related items, click on the item you believe is yours, and provide specific details about it. We will contact you through the provided contact information shortly.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+Indices and Tables
+-------------------
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- :ref:`genindex`
+- :ref:`modindex`
+- :ref:`search`

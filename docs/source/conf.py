@@ -6,6 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+
 project = 'FALLEN'
 copyright = '2023, .'
 author = '.'
@@ -15,8 +16,14 @@ release = '0.0.1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
- 
+    "sphinx.ext.duration",
+    "sphinx.ext.doctest",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
+    "sphinx_rtd_theme"
 ]
+
 
 templates_path = ['_templates']
 exclude_patterns = []

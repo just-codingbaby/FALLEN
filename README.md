@@ -1,5 +1,7 @@
 # 💻 FALLEN (OSSW)
-[Welcome to FALLEN’s documentation!](https://readthedocs.org/projects/fallen/)
+documentation
+
+[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest/)
 
 **오픈소스SW개론 팀 프로젝트** (**OSSW**) <br>
 

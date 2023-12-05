@@ -52,7 +52,7 @@ pip install Django
 pip install pillow
 pip install django-crispy-forms
 ```
-Windows
+**Windows**
 1. Create a virtual environment
 ```sh
 python -m venv virtual

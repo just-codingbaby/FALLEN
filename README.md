@@ -30,27 +30,40 @@
  - 보안
  - 사용자 인증
 ## Install
-1.Install venv
+1. Install venv
 ```sh
 sudo apt-get install python3-venv
 ```
-2.Create a virtual environment
+2. Create a virtual environment
 ```sh
 python3 -m venv virtual
 ```
-3.Start the virtual environment
+3. Start the virtual environment
 ```sh
 source virtual/bin/activate
 ```
-4.Now your path will change and it will show the name of your virtual environment
+4. Now your path will change and it will show the name of your virtual environment
 ```sh
 (virtual)
 ```
-5.Now install django,pillow and crispy-forms (required in this application)
+5. Now install django,pillow and crispy-forms (required in this application)
 ```sh
 pip install Django
 pip install pillow
 pip install django-crispy-forms
+```
+Windows
+1. Create a virtual environment
+```sh
+python -m venv virtual
+```
+3. Activate the virtual environment
+```sh
+.\virtual\Scripts\activate
+```
+5. Install Django, Pillow, and django-crispy-forms
+```sh
+pip install Django pillow django-crispy-forms
 ```
 
 ## Usage

@@ -30,6 +30,7 @@
  - 보안
  - 사용자 인증
 ## Install
+**For Linux**
 1. Install venv
 ```sh
 sudo apt-get install python3-venv
@@ -52,7 +53,7 @@ pip install Django
 pip install pillow
 pip install django-crispy-forms
 ```
-**Windows**
+**For Windows**
 1. Create a virtual environment
 ```sh
 python -m venv virtual

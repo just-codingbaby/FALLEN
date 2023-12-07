@@ -60,11 +60,11 @@ pip install django-crispy-forms
 ```sh
 python -m venv virtual
 ```
-3. Activate the virtual environment
+2. Activate the virtual environment
 ```sh
 .\virtual\Scripts\activate
 ```
-5. Install Django, Pillow, and django-crispy-forms
+3. Install Django, Pillow, and django-crispy-forms
 ```sh
 pip install Django pillow django-crispy-forms
 ```

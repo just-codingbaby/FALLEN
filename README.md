@@ -12,10 +12,11 @@
 
 # documentation
 
-[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest)
-https://fallen.readthedocs.io/en/latest
-[Welcome to FALLEN’s blog!](https://day024.github.io/FALLEN-web/)
-https://day024.github.io/FALLEN-web/
+[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest) <br>
+https://fallen.readthedocs.io/en/latest<br>
+
+[Welcome to FALLEN’s blog!](https://day024.github.io/FALLEN-web/)<br>
+https://day024.github.io/FALLEN-web/<br> 
 # 대학 캠퍼스 내 분실물 찾기 플랫폼 
 
 ### **목적**: 

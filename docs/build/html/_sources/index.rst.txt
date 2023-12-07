@@ -27,6 +27,12 @@ Contents
    :caption: Contents:
 
 Indices and Tables
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+Indices and Tables
 -------------------
 
 - :ref:`genindex`

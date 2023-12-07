@@ -12,7 +12,7 @@
 
 # documentation
 
-[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest/)
+[Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest)
 
 # 대학 캠퍼스 내 분실물 찾기 플랫폼 
 

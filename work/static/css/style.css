@@ -143,12 +143,12 @@ span{
 }*/
 .button{
     /*background-color: Navy;*/ 
-    border: 1px solid black;
+    background-color: #51626f;
     padding: 15px 15px;
     text-align: center;
     font-size: 32px;
     font-family: "montserrat";
-    color: #3498db;
+    color: #black;
     cursor: pointer;
     border-radius: 10px;
     transition-duration: 0.4s;
@@ -165,7 +165,7 @@ span{
     top:22%;
     width: 33%;
     height: 93%;
-    background: #3498db;    
+    background: #c3002f
     z-index: -1;
     transition:0.8s;
     border-radius: 0 0 50% 50%;
@@ -186,7 +186,7 @@ span{
     bottom: 10px;
     width: 100px;
     height: 100px;
-    background: rgb(4, 156, 30);
+    background: #c3002f;
     color: #fff;
     outline: none;
     border: none;
@@ -293,14 +293,14 @@ span{
     text-align: center;
     font-size: 22px;
     font-family: "montserrat";
-    color: #3498db;
+    color: #c3002f;
     cursor: pointer;
     border-radius: 10px;
     transition-duration: 0.4s;
 }
 .buttonp:hover {
     color: #fff;
-    background-color: #3498db;
+    background-color: #c3002f;
 }
 #buttonp{
     font-size: 15px;

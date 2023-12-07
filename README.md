@@ -83,6 +83,9 @@ python manage.py runserver
 ## reference
 https://github.com/GSri30/LostAndFound-Web
 
+## 📝 License
+This project is [Apache License 2.0][https://github.com/just-codingbaby/FALLEN/blob/main/LICENSE]
+
 ## 👤FALLEN 팀원
 - 임채민 : - [@chaemin5](https://github.com/chaemin5)
 - 정승원 : - [@Jeong-Seung-Won](https://github.com/Jeong-Seung-Won)

@@ -23,16 +23,13 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-Indices and Tables
-
-.. toctree::
    :maxdepth: 3
+   :hidden:
    :caption: Contents:
 
-Indices and Tables
+   FALLEN_project
+   installation
+   usage
 -------------------
 
 - :ref:`genindex`

@@ -72,7 +72,7 @@ python -m venv virtual
 pip install Django pillow django-crispy-forms
 ```
 
-## Usage
+## 🔧Usage
 1.Now clone the repository and change the directory to mysite and execute
 ```sh
 python manage.py runserver

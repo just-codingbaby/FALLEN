@@ -27,7 +27,7 @@ Contents
    :hidden:
    :caption: Contents:
 
-   FALLEN_project
+   About
    installation
    usage
 

@@ -14,6 +14,7 @@
 
 [Welcome to FALLEN’s documentation!](https://fallen.readthedocs.io/en/latest)
 
+https://day024.github.io/FALLEN-web/
 # 대학 캠퍼스 내 분실물 찾기 플랫폼 
 
 ### **목적**: 
@@ -86,5 +87,3 @@ https://github.com/GSri30/LostAndFound-Web
 - 정다영 : - [@day024](https://github.com/day024)
 - 정해찬 : - [@just-codingbaby](https://github.com/just-codingbaby)
 
-
-$$ \alpha $$
